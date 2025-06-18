@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Aquire";
+  src: url(./assets/fonts/AquireBold-8Ma60.otf) ;
+}
+
+@font-face {
+  font-family: "A";
+  src: url(./assets/fonts/Averne-rvJVL.ttf) ;
+}
+
+@font-face {
+  font-family: "k";
+  src: url(./assets/fonts/Kollektif.ttf) ;
+}
+
+body{
+  background-color: #F1EFEC;
+  font-family: "A";
+  color: #123458;
+}
+
+nav{
+  font-family: "Aquire";
+  color: #123458;
+}
+
+#subhead{
+  font-family: "k";
+}
