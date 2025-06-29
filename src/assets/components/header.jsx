@@ -9,9 +9,7 @@ function Header() {
       Customer Experience Specialist at Fieldy.ai and Master’s student in IT Security,
       with a passion for app development, UI/UX, and web development.
     </p>
-    <button className="bg-[#123458] text-white px-6 py-3 mt-6 rounded-full cursor-pointer hover:scale-105 transition-transform font-semibold">
-      Contact me
-    </button>
+    
   </div>
 </div>
 
